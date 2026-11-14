@@ -42,7 +42,7 @@ Telegram-боты на python-telegram-bot
 
 Требования к информационно-образовательной среде вуза (учебный) Провела интервью с «заказчиком», составила протокол, глоссарий, первичные и функциональные требования, 11 Use Cases, ER-диаграмму и 9 диаграмм последовательности. Всё разложено по папкам, в README есть навигация. (https://github.com/Tanyssik/analytics-portfolio)
 
-REST API «Котики и их хозяева» (ASP.NET Core) CRUD-эндпоинты, Entity Framework Core (InMemory), Swagger-документация, собственный веб-интерфейс на JavaScript. Репозиторий
+REST API «Котики и их хозяева» (ASP.NET Core) CRUD-эндпоинты, Entity Framework Core (InMemory), Swagger-документация, собственный веб-интерфейс на JavaScript. (https://github.com/Tanyssik/CatAPI-MVP)
 
 Хакатоны
 
